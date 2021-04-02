@@ -8,4 +8,4 @@
 codername-123/codername-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Codername-123 GitHub stats](https://github-readme-stats.vercel.app/api?username=codername-123)](https://github.com/codername-123/github-readme-stats)
+[![Codername-123 GitHub stats](https://github-readme-stats.vercel.app/api?username=codername-123&show_icons=true&theme=radical)](https://github.com/codername-123/github-readme-stats)

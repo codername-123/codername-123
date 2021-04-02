@@ -8,6 +8,4 @@
 codername-123/codername-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://github.com/codername-123/github-readme-stats">
-  <img align="center" src="https://camo.githubusercontent.com/266effdbf85c641a5a00a1e529b32cfcb03e8dcb3b7f0adad1915f15af56da8f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5672696e64616775707461363832382673686f775f69636f6e733d74727565267468656d653d7261646963616c26636f756e745f707269766174653d74727565" alt="Codername-123 github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=codername-123&amp;show_icons=true&amp;theme=radical&amp;count_private=true" style="max-width:100%;">
-</a>
+[![Codername-123 GitHub stats](https://github-readme-stats.vercel.app/api?username=codername-123)](https://github.com/codername-123/github-readme-stats)
